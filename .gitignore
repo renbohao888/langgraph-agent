@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 密钥（千万不要上传！）
+.env
+
+# 本地数据
+*.sqlite
+*.db
+notes.txt
